@@ -12,6 +12,11 @@ let country = "USA";
 let continent = "North America";
 let population = 350000000
 
+
+
 console.log("Country = " + country);
 console.log("Continent = " + continent);
 console.log("Population = " + population);
+
+let j = true;
+console.log(typeof j);
