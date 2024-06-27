@@ -36,5 +36,9 @@ console.log(firstName1 + lastName1);
 console.log("I'm " + firstName + ", a " + " programmer.");
 
 
-const deividasNew = `I'm ${firstName}`;
-console.log(deividasNew); 
+const deividasNew = `I'm ${firstName}, a ${100 - ageSarah} old teacher!`;
+console.log(deividasNew);
+
+console.log("....................................................");
+
+//
