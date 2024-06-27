@@ -34,3 +34,7 @@ const lastName1 = 'Strole'
 console.log(firstName1 + lastName1);
 
 console.log("I'm " + firstName + ", a " + " programmer.");
+
+
+const deividasNew = `I'm ${firstName}`;
+console.log(deividasNew); 
