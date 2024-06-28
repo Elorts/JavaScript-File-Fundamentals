@@ -42,3 +42,13 @@ console.log(deividasNew);
 console.log("....................................................");
 
 //
+
+const favourite = Number(prompt("Enter number: "));
+console.log(favourite);
+console.log(typeof favourite);
+
+if (favourite === 23) {
+    console.log(`Good number 23!`);
+}
+
+console.log(true && false);
